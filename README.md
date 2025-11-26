@@ -6,7 +6,6 @@
 
 ## 💼 Experience
 - **Programming Projects:** Built simple and complex end-to-end applications through academic and self-initiated projects, strengthening problem-solving and full-stack development skills.
-- **Avedo GmbH, Pristina — Call Center Agent (02/2024 - Present):** Developed strong communication 📞, teamwork 🤝, and time-management ⏱️ skills in a fast-paced environment.
 
 ---
 
